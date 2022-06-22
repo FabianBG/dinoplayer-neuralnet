@@ -2,4 +2,4 @@ tensorflow==2.1.0
 tensorflow-gpu==2.1.0
 mss==5.1.0
 pynput==1.6.8
-numpy==1.18.4
+numpy==1.22.0
